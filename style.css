@@ -1,0 +1,23 @@
+
+em strong {
+  color:#ff0000;
+}
+.itens{font-estile:italico;
+font-size:25px;}
+.Beneficios{background:#FFFFFF;
+padding:20px;}
+.principal{background:#CCCCCC;
+padding:30px;}
+.imagem beneficios{width:60%;}
+ul{display: inline-block;
+vertical-align:top;}#banner {
+  width:100%
+}
+h1 {
+  text-align:center;
+}
+p{text-align:center;
+}
+#missao {
+  font-size:20px;
+}
